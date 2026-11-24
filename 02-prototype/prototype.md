@@ -9,12 +9,11 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
-
+Illustrates a conceptual flow that gives the PM oversight of raised tickets, analysed by important vectors, enabling the most informed and impactful decisions.
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Highly impactful at a high level for understanding the tickets and where attention needs to go in order to bring items back within appetite.
+- **What broke / felt like a toy:** It felt like a separate dashboard, ideally it'd be much more integrated into Jira or Slack.
+- **What I'd change next pass:** Try and strike a better balance between a holistic overview and more pragmatic ticket management
